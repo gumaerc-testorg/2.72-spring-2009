@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: a680f3b6-224b-7fd9-b368-7ea9ca679e27
 ---
@@ -503,7 +506,7 @@ Ses #6
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-1st draft in separate modules
+1{{< sup "st" >}} draft in separate modules
 {{< tdclose >}}
 {{< tdopen >}}
 Ses #16

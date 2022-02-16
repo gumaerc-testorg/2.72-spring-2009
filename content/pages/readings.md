@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: c388d650-548d-53c5-bb0d-c573b84b385d
 ---
@@ -34,7 +37,7 @@ Principles: overview, assessment, group formation
 
 \[S&M\] 3.1, 3.2, 3.4, 3.7, 3.8, 3.10, 3.11
 
-Refresh your knowledge of beam bending, 1st and 2nd order system vibrations
+Refresh your knowledge of beam bending, 1{{< sup "st" >}} and 2{{< sup "nd" >}} order system vibrations
 
 
 {{< tdclose >}}

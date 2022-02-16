@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: ee49e41c-c931-4e52-ce11-3f55c2ba198e
 ---
@@ -217,7 +219,7 @@ Drives I: screw drives
  
 {{< tdclose >}}
 {{< tdopen >}}
-1st System model
+1{{< sup "st" >}} System model
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -360,7 +362,7 @@ M-lab 5: IC engine
 {{< tdopen >}}
 19
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="7" >}}
 Project work
 {{< tdclose >}}
 {{< tdopen >}}
@@ -409,7 +411,7 @@ D-lab 4: assembly
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Project report 1st draft
+Project report 1{{< sup "st" >}} draft
 {{< tdclose >}}
 {{< tdopen >}}
  
