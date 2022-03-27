@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: a680f3b6-224b-7fd9-b368-7ea9ca679e27
 resourcetype: Other
 title: Lathe CAD
 uid: ac70cf04-da63-e97f-3346-4758c8029efc

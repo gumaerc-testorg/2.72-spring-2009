@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7a7ef714-2413-8486-f32a-4311f290570f
 resourcetype: Document
 title: Shaft blank exercise
 uid: 130ca461-b0fd-b9b9-0a88-18fe97d022f9

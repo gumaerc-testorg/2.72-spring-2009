@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7a7ef714-2413-8486-f32a-4311f290570f
 resourcetype: Other
 title: Vibration exercise
 uid: 57434927-25f8-187d-1b86-d251225d06b0
