@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by lecture topic and information
+  on the course textbook.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -131,7 +133,7 @@ Skim 11.7-11.8, 11.10-11.12
 Constraints II: rolling and sliding element bearings
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Bearing basics (PDF)](http://www.timken.com/pdf/10831_MDV7-Bearing-Adjustment-Basics.pdf)
+[Bearing basics (PDF)](http://www.timken.com/pdf/10831_MDV7-Bearing-Adjustment-Basics.pdf)
 {{< tdclose >}}
 
 {{< trclose >}}
