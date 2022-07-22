@@ -5,6 +5,7 @@ file: /courses/2-72-elements-of-mechanical-design-spring-2009/5743492725f8187d1b
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Vibration exercise
 uid: 57434927-25f8-187d-1b86-d251225d06b0
 ---
 Supporting file for an exercise on analysis of vibration.
-

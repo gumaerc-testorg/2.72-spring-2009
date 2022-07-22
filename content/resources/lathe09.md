@@ -5,6 +5,7 @@ file: /courses/2-72-elements-of-mechanical-design-spring-2009/ac70cf04da63e97f33
 file_type: application/zip
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lathe CAD
 uid: ac70cf04-da63-e97f-3346-4758c8029efc
 ---
 Supporting CAD files for a project to create a desktop manual lathe.
-
