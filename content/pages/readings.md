@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by lecture topic and information
+  on the course textbook.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: c388d650-548d-53c5-bb0d-c573b84b385d
 ---
@@ -34,7 +39,7 @@ Principles: overview, assessment, group formation
 
 \[S&M\] 3.1, 3.2, 3.4, 3.7, 3.8, 3.10, 3.11
 
-Refresh your knowledge of beam bending, 1st and 2nd order system vibrations
+Refresh your knowledge of beam bending, 1{{< sup "st" >}} and 2{{< sup "nd" >}} order system vibrations
 
 
 {{< tdclose >}}
@@ -128,7 +133,7 @@ Skim 11.7-11.8, 11.10-11.12
 Constraints II: rolling and sliding element bearings
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Bearing basics (PDF)](http://www.timken.com/pdf/10831_MDV7-Bearing-Adjustment-Basics.pdf)
+[Bearing basics (PDF)](http://www.timken.com/pdf/10831_MDV7-Bearing-Adjustment-Basics.pdf)
 {{< tdclose >}}
 
 {{< trclose >}}

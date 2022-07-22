@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides information on the assignments for the course,
+  including images and video, the design notbook, Gantt charts, design verification
+  tests/experiments, process plans for parts, and the final report.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: cba65991-8736-b584-62a2-5878913153a7
 ---
@@ -41,7 +47,7 @@ You must use the CMM to characterize items 2 and 3. You may check out a 3-ball m
 
 You must create a spreadsheet or equivalent simulation tool that calculates the error motions given the center point of the three balls. Bring this to the CMM training and measurement sessions so that you may key in your data and immediately see the results. This way you will know if you are getting reasonable results from your experimental setup! You can also use the spread sheet to see how sensitive the measurement set up is, given the errors in the CMM (very important).
 
-Process Plans for Parts (Template [PDF]({{< baseurl >}}/resources/mit2_72s09_res02))
+Process Plans for Parts (Template {{% resource_link 89ba2d05-2538-61cf-a410-b13369466119 "PDF" %}})
 ------------------------------------------------------------------------------------
 
 "Good plans shape good decisions. That's why good planning helps to make elusive dreams come true." — Lester Bittel

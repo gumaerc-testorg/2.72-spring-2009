@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with associated lecture presentations.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 7a7ef714-2413-8486-f32a-4311f290570f
 ---
@@ -22,7 +27,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Principles: overview, assessment, group formation ([PDF]({{< baseurl >}}/resources/mit2_72s09_lec01))
+Principles: overview, assessment, group formation ({{% resource_link 7ec8054b-49c3-fbbd-9345-8a397723c7fa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,9 +38,9 @@ Principles: overview, assessment, group formation ([PDF]({{< baseurl >}}/resourc
 {{< tdopen >}}
 
 
-Fundamentals: mechanics, dynamics, heat transfer, matrices, and errors ([PDF - 1.3MB]({{< baseurl >}}/resources/mit2_72s09_lec02))
+Fundamentals: mechanics, dynamics, heat transfer, matrices, and errors ({{% resource_link 9f3d3364-3809-dee0-1f06-5ad6d04cd357 "PDF - 1.3MB" %}})
 
-Shaft blank exercise ([PDF]({{< baseurl >}}/resources/mit2_72s09_lec02_shaft))
+Shaft blank exercise ({{% resource_link 130ca461-b0fd-b9b9-0a88-18fe97d022f9 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -46,7 +51,7 @@ Shaft blank exercise ([PDF]({{< baseurl >}}/resources/mit2_72s09_lec02_shaft))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Shafts & ways: deformation, stresses, and integration ([PDF]({{< baseurl >}}/resources/mit2_72s09_lec03))
+Shafts & ways: deformation, stresses, and integration ({{% resource_link 36eed65f-96ad-d829-d317-d8d83b80bf30 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +60,7 @@ Shafts & ways: deformation, stresses, and integration ([PDF]({{< baseurl >}}/res
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Fatigue: fundamentals and modeling methods ([PDF]({{< baseurl >}}/resources/mit2_72s09_lec04))
+Fatigue: fundamentals and modeling methods ({{% resource_link 567ab245-2645-9b9f-f090-1d7f2fc13f2c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +69,7 @@ Fatigue: fundamentals and modeling methods ([PDF]({{< baseurl >}}/resources/mit2
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Structures: architectures, homogeneous transfer matrices, and system models ([PDF]({{< baseurl >}}/resources/mit2_72s09_lec05))
+Structures: architectures, homogeneous transfer matrices, and system models ({{% resource_link 5d64d061-6b9f-eceb-bd60-f01066008f6a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,7 +78,7 @@ Structures: architectures, homogeneous transfer matrices, and system models ([PD
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Constraints I: constraint-based design, alignment, preloading, and stability ([PDF]({{< baseurl >}}/resources/mit2_72s09_lec06))
+Constraints I: constraint-based design, alignment, preloading, and stability ({{% resource_link 22c0cb84-44c7-87d9-2b49-afe5ed97ff7b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +87,7 @@ Constraints I: constraint-based design, alignment, preloading, and stability ([P
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Constraints II: rolling and sliding element bearings ([PDF]({{< baseurl >}}/resources/mit2_72s09_lec07))
+Constraints II: rolling and sliding element bearings ({{% resource_link c34ca2c6-fd03-a3e4-5fc9-b699c2dbc808 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +96,7 @@ Constraints II: rolling and sliding element bearings ([PDF]({{< baseurl >}}/reso
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Constraints III: flexure bearing elastomechanics & dynamics ([PDF - 4.7MB]({{< baseurl >}}/resources/mit2_72s09_lec08))
+Constraints III: flexure bearing elastomechanics & dynamics ({{% resource_link 1f5a093d-bcb1-a818-9d6a-ca0b380b4925 "PDF - 4.7MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +105,7 @@ Constraints III: flexure bearing elastomechanics & dynamics ([PDF - 4.7MB]({{< b
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Connections I: alignment interfaces ([PDF]({{< baseurl >}}/resources/mit2_72s09_lec09))
+Connections I: alignment interfaces ({{% resource_link 6e4d8a14-5045-1730-ac5a-92ad3b2f1cb8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +114,7 @@ Connections I: alignment interfaces ([PDF]({{< baseurl >}}/resources/mit2_72s09_
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Connections II: bolted joints ([PDF]({{< baseurl >}}/resources/mit2_72s09_lec10))
+Connections II: bolted joints ({{% resource_link 2862ad7e-68d4-5da0-9552-4330b10ba4a4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,7 +123,7 @@ Connections II: bolted joints ([PDF]({{< baseurl >}}/resources/mit2_72s09_lec10)
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Drives I: screw drives ([PDF]({{< baseurl >}}/resources/mit2_72s09_lec11))
+Drives I: screw drives ({{% resource_link d6f35af9-874e-a263-ddf1-72691926ee5f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +134,7 @@ Drives I: screw drives ([PDF]({{< baseurl >}}/resources/mit2_72s09_lec11))
 {{< tdopen >}}
 
 
-Drives II: belt and friction drives ([PDF]({{< baseurl >}}/resources/mit2_72s09_lec12))
+Drives II: belt and friction drives ({{% resource_link 83d81a6f-63d1-c6f0-fb77-5c08b207bc51 "PDF" %}})
 
 Gears I: kinematics
 
@@ -142,7 +147,7 @@ Gears I: kinematics
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Gears II: mechanics and selection ([PDF]({{< baseurl >}}/resources/mit2_72s09_lec13))
+Gears II: mechanics and selection ({{% resource_link b13178aa-f278-55ba-0c63-caa5740ed53b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +156,7 @@ Gears II: mechanics and selection ([PDF]({{< baseurl >}}/resources/mit2_72s09_le
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Actuators: DC motors, piezos, magnet-coil, and hydraulics ([PDF]({{< baseurl >}}/resources/mit2_72s09_lec14))
+Actuators: DC motors, piezos, magnet-coil, and hydraulics ({{% resource_link c4b5aff9-cdb2-1f72-2034-907ac7d071da "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,9 +176,9 @@ Actuators: thermal and electrostatic microactuators
 {{< tdopen >}}
 
 
-Vibrations: machine dynamics and damping ([PDF]({{< baseurl >}}/resources/mit2_72s09_lec16))
+Vibrations: machine dynamics and damping ({{% resource_link eda60f1d-bd47-e4c1-b178-6f5c02cf9ee8 "PDF" %}})
 
-Vibration exercise: part for analysis, vibration.sldprt ([SLDPRT]({{< baseurl >}}/resources/vibration))
+Vibration exercise: part for analysis, vibration.sldprt ({{% resource_link 57434927-25f8-187d-1b86-d251225d06b0 "SLDPRT" %}})
 
 
 {{< tdclose >}}
@@ -193,7 +198,7 @@ Linkages: degrees of freedom and kinematics
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Friction elements: clutches and brakes ([PDF]({{< baseurl >}}/resources/mit2_72s09_lec18))
+Friction elements: clutches and brakes ({{% resource_link ec9f1a57-3e65-95f9-b532-756f2d8ded44 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

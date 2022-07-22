@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides information on the design project of the course,
+  including a project description, responsibility for parts, deliverable schedule,
+  group budgets, measurement tools, and group gurus.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: a680f3b6-224b-7fd9-b368-7ea9ca679e27
 ---
@@ -11,7 +17,7 @@ Project Description
 
 The content of 2.72 has been scoped to include the majority of mechanical elements that are considered ubiquitous components of mechanical systems. All of these mechanical elements may be found in mechanical systems that could be the subject of a 2.72 design project. We have elected to use a desktop manual lathe as the 2.72 design project. This selection offers the unique opportunity to create a mechanical system that: (a) forms the basis of your assignments and laboratory activities (b) will be used to draw inter-related examples that demonstrate component/system design (c) you may keep as a "memento" of your mechanical design experience and accomplishment; and (d) you may use to create mechanical elements for future activities.
 
-Lathe CAD ([ZIP - 19.0MB]({{< baseurl >}}/resources/lathe09)) (This ZIP file contains: 6 .stl files, 1 .dxf file, 7 .sldasm files, 5 .slddrw files, and 31 .sldprt files.)
+Lathe CAD ({{% resource_link ac70cf04-da63-e97f-3346-4758c8029efc "ZIP - 19.0MB" %}}) (This ZIP file contains: 6 .stl files, 1 .dxf file, 7 .sldasm files, 5 .slddrw files, and 31 .sldprt files.)
 
 Responsibility for Parts
 ------------------------
@@ -503,7 +509,7 @@ Ses #6
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-1st draft in separate modules
+1{{< sup "st" >}} draft in separate modules
 {{< tdclose >}}
 {{< tdopen >}}
 Ses #16
