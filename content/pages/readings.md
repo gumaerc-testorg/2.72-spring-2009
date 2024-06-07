@@ -133,7 +133,7 @@ Skim 11.7-11.8, 11.10-11.12
 Constraints II: rolling and sliding element bearings
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "c4be15c4-625b-453c-8af5-2a4852a4b7cd" "Bearing basics (PDF)" %}}
+[Bearing basics (PDF)](http://www.timken.com/pdf/10831_MDV7-Bearing-Adjustment-Basics.pdf)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +147,7 @@ Constraints III: flexure bearing elastomechanics & dynamics
 {{< tdopen >}}
 
 
-Hale, Layton C. "{{% resource_link "815f4737-d14d-4800-a377-d03d4dde7cd8" "Principles and Techniques for Designing Precision Machines" %}}." Ph.D. Thesis, Massachusetts Institute of Technology, 1999.
+Hale, Layton C. "[Principles and Techniques for Designing Precision Machines](http://dspace.mit.edu/handle/1721.1/9414)." Ph.D. Thesis, Massachusetts Institute of Technology, 1999.
 
 Read 2.6, 2.7, 6.1
 

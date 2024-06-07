@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting CAD files for a project to create a desktop manual lathe.
 file: /courses/2-72-elements-of-mechanical-design-spring-2009/ac70cf04da63e97f33464758c8029efc_lathe09.zip
+file_size: 41754
 file_type: application/zip
 learning_resource_types:
 - Projects
