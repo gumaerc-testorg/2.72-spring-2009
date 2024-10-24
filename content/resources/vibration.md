@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for an exercise on analysis of vibration.
-file: /courses/2-72-elements-of-mechanical-design-spring-2009/5743492725f8187d1b86d251225d06b0_vibration.sldprt
+file: /ol-ocw-studio-app/courses/2-72-elements-of-mechanical-design-spring-2009/5743492725f8187d1b86d251225d06b0_vibration.sldprt
 file_size: 313344
 file_type: application/msword
 learning_resource_types:
