@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/2-72-elements-of-mechanical-design-spring-2009/mit2_72_s09_lathe.zip
+file: /ol-ocw-studio-app/courses/2-72-elements-of-mechanical-design-spring-2009/mit2_72_s09_lathe.zip
 file_size: 20395890
 file_type: application/zip
 image_metadata:
