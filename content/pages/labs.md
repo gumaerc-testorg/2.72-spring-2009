@@ -3,7 +3,7 @@ content_type: page
 description: This section provides information on the course labs, including take-apart
   labs, design labs (D-Labs), shop hours, and scheduling of shop machines and resources.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 288d0a48-2c10-429a-0d11-5c4df99af825
